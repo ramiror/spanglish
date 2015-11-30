@@ -28,6 +28,8 @@ Bad English &lt;-> Spanish translations.
 - It goes out like a punch of a drunken man.
 - Worth the grief.
 - Erasure and new count.
+- Twentieth century, mess.
+- They who don't cry, aren't breastfed.
 
 ## English -> Spanish
 
