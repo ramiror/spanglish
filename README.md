@@ -31,6 +31,7 @@ Bad English &lt;-> Spanish translations.
 - Twentieth century, mess.
 - They who don't cry, aren't breastfed.
 - It licks me an egg.
+- Pulled from the hairs
 
 ## English -> Spanish
 
