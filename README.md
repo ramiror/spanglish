@@ -30,6 +30,7 @@ Bad English &lt;-> Spanish translations.
 - Erasure and new count.
 - Twentieth century, mess.
 - They who don't cry, aren't breastfed.
+- It licks me an egg.
 
 ## English -> Spanish
 
