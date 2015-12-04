@@ -32,6 +32,8 @@ Bad English &lt;-> Spanish translations.
 - They who don't cry, aren't breastfed.
 - It licks me an egg.
 - Pulled from the hairs
+- You touched dance to the ugliest
+- This is the potato of the life.
 
 ## English -> Spanish
 
