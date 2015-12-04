@@ -36,6 +36,8 @@ Bad English &lt;-> Spanish translations.
 - This is the potato of the life.
 - I'm a cheese
 - Dot and apart.
+- You touched dance to the ugliest
+- This is the potato of the life.
 
 ## English -> Spanish
 
