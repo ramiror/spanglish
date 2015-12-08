@@ -32,6 +32,7 @@ Bad English &lt;-> Spanish translations.
 - They who don't cry, aren't breastfed.
 - It licks me an egg.
 - Pulled from the hairs
+- I'm a cheese
 
 ## English -> Spanish
 
