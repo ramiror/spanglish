@@ -34,6 +34,7 @@ Bad English &lt;-> Spanish translations.
 - Pulled from the hairs
 - You touched dance to the ugliest
 - This is the potato of the life.
+- I'm a cheese
 
 ## English -> Spanish
 
