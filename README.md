@@ -35,6 +35,7 @@ Bad English &lt;-> Spanish translations.
 - You touched dance to the ugliest
 - This is the potato of the life.
 - I'm a cheese
+- Dot and apart.
 
 ## English -> Spanish
 
