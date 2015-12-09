@@ -33,6 +33,7 @@ Bad English &lt;-> Spanish translations.
 - It licks me an egg.
 - Pulled from the hairs
 - I'm a cheese
+- Dot and apart.
 
 ## English -> Spanish
 
