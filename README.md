@@ -36,6 +36,7 @@ Bad English &lt;-> Spanish translations
 - Dot and apart
 - It touched you to dance with the ugliest
 - This is the potato of the life
+- May I ask you a hand?
 
 ## English -> Spanish
 
