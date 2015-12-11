@@ -33,7 +33,9 @@ Bad English &lt;-> Spanish translations.
 - It licks me an egg.
 - Pulled from the hairs
 - I'm a cheese
-- Dot and apart.
+- Dot and apart
+- It touched you to dance with the ugliest
+- This is the potato of the life
 
 ## English -> Spanish
 
