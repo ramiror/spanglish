@@ -37,6 +37,7 @@ Bad English &lt;-> Spanish translations
 - It touched you to dance with the ugliest
 - This is the potato of the life
 - May I ask you a hand?
+- To the fart
 
 ## English -> Spanish
 
