@@ -1,5 +1,5 @@
 # spanglish
-Bad English &lt;-> Spanish translations.
+Bad English &lt;-> Spanish translations
 
 ## Spanish -> English
 
@@ -15,22 +15,22 @@ Bad English &lt;-> Spanish translations.
 - Because if
 - At the male
 - Go the guys from the slum neighbourhoods!
-- A kilo and two small breads.
-- It made miss.
-- Head-on butter.
-- He went to the rubber.
-- It goes liking.
-- For if the flies.
-- For the doubts.
-- Give it no more.
-- It goes out like a pineapple.
-- It goes out like a kick of a donkey.
-- It goes out like a punch of a drunken man.
-- Worth the grief.
-- Erasure and new count.
-- Twentieth century, mess.
-- They who don't cry, aren't breastfed.
-- It licks me an egg.
+- A kilo and two small breads
+- It made miss
+- Head-on butter
+- He went to the rubber
+- It goes liking
+- For if the flies
+- For the doubts
+- Give it no more
+- It goes out like a pineapple
+- It goes out like a kick of a donkey
+- It goes out like a punch of a drunken man
+- Worth the grief
+- Erasure and new count
+- Twentieth century, mess
+- They who don't cry, aren't breastfed
+- It licks me an egg
 - Pulled from the hairs
 - I'm a cheese
 - Dot and apart
@@ -39,6 +39,6 @@ Bad English &lt;-> Spanish translations.
 
 ## English -> Spanish
 
-- Trabajando como un jefe.
-- Estamos mirando hacia adelante a eso.
-- Justo en caso.
+- Trabajando como un jefe
+- Estamos mirando hacia adelante a eso
+- Justo en caso
