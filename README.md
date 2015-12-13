@@ -3,41 +3,43 @@ Bad English &lt;-> Spanish translations
 
 ## Spanish -> English
 
-- That is!
-- Look you!
-- You’re a bad taught
-- You’re a bad thought
-- Don’t put me the dog
-- To the steaks
-- As long as a fart in a basket
-- I took you the token (or I took you the chip)
-- Clear that yes!
-- Because if
-- At the male
-- Go the guys from the slum neighbourhoods!
-- A kilo and two small breads
-- It made miss
-- Head-on butter
-- He went to the rubber
-- It goes liking
-- For if the flies
-- For the doubts
-- Give it no more
-- It goes out like a pineapple
-- It goes out like a kick of a donkey
-- It goes out like a punch of a drunken man
-- Worth the grief
-- Erasure and new count
-- Twentieth century, mess
-- They who don't cry, aren't breastfed
-- It sucks me an egg
-- Pulled from the hairs
-- I'm a cheese
-- Dot and apart
-- It touched you to dance with the ugliest
-- This is the potato of the life
-- May I ask you a hand?
-- To the fart
+Translation | Explanation
+---|---
+That is! | 
+Look you! | Look at that, communicate surprise
+You’re a bad taught | You're rude
+You’re a bad thought | 
+Don’t put me the dog | Don't lie to me
+To the steaks | Fight
+As long as a fart in a basket | Doesn't last long
+I took you the token (or I took you the chip) | I learned your habits
+Clear that yes! | Of course yes
+Because if | Just because
+At the male | Like a man
+Go the guys from the slum neighbourhoods! | 
+kilo and two small breads | 
+It made miss | 
+Head-on butter |
+He went to the rubber | He left
+It goes liking | It's closer to what I want, but it isn't there yet.
+For if the flies | Just in case
+For the doubts | Just in case
+Give it no more | Just go ahead
+It goes out like a pineapple | That's good
+It goes out like a kick of a donkey | That's good
+It goes out like a punch of a drunken man | That's good
+Worth the grief | It's worth it
+Erasure and new count | Start over
+Twentieth century, mess | 
+They who don't cry, aren't breastfed | If you don't speak up, nothing will happen
+It sucks me an egg | I don't care
+Pulled from the hairs | It's a stretch
+I'm a cheese | I'm silly
+Dot and apart | Carry on
+It touched you to dance with the ugliest | You have the hardest task
+This is the potato of the life |
+May I ask you a hand? | May I ask you for help?
+To the fart | Useless
 
 ## English -> Spanish
 
