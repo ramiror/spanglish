@@ -14,7 +14,7 @@ To the steaks | Fight
 As long as a fart in a basket | Doesn't last long
 I took you the token (or I took you the chip) | I learned your habits
 Clear that yes! | Of course yes
-Because if | Just because
+Because yes | Just because
 At the male | Like a man
 Go the guys from the slum neighbourhoods! | 
 kilo and two small breads | 
