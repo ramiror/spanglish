@@ -40,6 +40,7 @@ It touched you to dance with the ugliest | You have the hardest task
 This is the potato of the life |
 May I ask you a hand? | May I ask you for help?
 To the fart | Useless
+To make self drum | To self promote
 
 ## English -> Spanish
 
