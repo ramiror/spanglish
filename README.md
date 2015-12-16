@@ -42,6 +42,7 @@ May I ask you a hand? | May I ask you for help?
 To the fart | Useless
 To make self drum | To self promote
 Compromise solution | Trade-off
+One hand ahead and one behind | To be broke
 
 ## English -> Spanish
 
