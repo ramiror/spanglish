@@ -48,3 +48,4 @@ Compromise solution | Trade-off
 - Trabajando como un jefe
 - Estamos mirando hacia adelante a eso
 - Justo en caso
+- En una cáscara de nuez
