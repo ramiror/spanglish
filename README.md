@@ -47,7 +47,7 @@ In one of those | Maybe
 It is the less | It's the worst; it's lame
 It costs an egg | It is very expensive/difficult
 I don't have a mango split in half | To be broke
-There are no moors in sight | All clear
+There are no moors in the coast | All clear
 
 ## English -> Spanish
 
