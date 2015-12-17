@@ -43,6 +43,7 @@ To the fart | Useless
 To make self drum | To self promote
 Compromise solution | Trade-off
 One hand ahead and one behind | To be broke
+In one of those | Maybe
 
 ## English -> Spanish
 
