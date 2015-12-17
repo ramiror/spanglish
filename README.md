@@ -44,6 +44,7 @@ To make self drum | To self promote
 Compromise solution | Trade-off
 One hand ahead and one behind | To be broke
 In one of those | Maybe
+It is the less | It's the worst; it's lame
 
 ## English -> Spanish
 
