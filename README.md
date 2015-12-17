@@ -46,6 +46,7 @@ One hand ahead and one behind | To be broke
 In one of those | Maybe
 It is the less | It's the worst; it's lame
 It costs an egg | It is very expensive/difficult
+I don't have a mango split in half | To be broke
 
 ## English -> Spanish
 
