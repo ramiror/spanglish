@@ -53,8 +53,8 @@ Not even the parrot came | Nobody showed up
 
 ## English -> Spanish
 
-- Trabajando como un jefe
-- Estamos mirando hacia adelante a eso
-- Justo en caso
-- En una cáscara de nuez
-- Cálculos en el reverso del sobre
+Trabajando como un jefe | Trabajando como un campeón
+Estamos mirando hacia adelante a eso | Esperar con ansias
+Justo en caso | Por las dudas
+En una cáscara de nuez | En pocas palabras
+Cálculos en el reverso del sobre | A ojo de buen cubero
