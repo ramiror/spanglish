@@ -5,10 +5,10 @@ Bad English &lt;-> Spanish translations
 
 Translation | Explanation
 ---|---
-That is! | 
+That is! | That's it! Hooray!
 Look you! | Look at that, communicate surprise
 You’re a bad taught | You're rude
-You’re a bad thought | 
+You’re a bad thought | Dirty-minded / suspicious / pessimistic.
 Don’t put me the dog | Don't lie to me
 To the steaks | Fight
 As long as a fart in a basket | Doesn't last long
@@ -16,10 +16,10 @@ I took you the token (or I took you the chip) | I learned your habits
 Clear that yes! | Of course yes
 Because yes | Just because
 At the male | Like a man
-Go the guys from the slum neighbourhoods! | 
-kilo and two small breads | 
-It made miss | 
-Head-on butter |
+Go the guys from the slum neighbourhoods! | Voice of support to the guys of (and sense of belonging to) the slums
+kilo and two small breads | Better than perfect / as good as it gets.
+It made miss | It was necessary
+Head-on butter | Without hesitation
 He went to the rubber | He left
 It goes liking | It's closer to what I want, but it isn't there yet.
 For if the flies | Just in case
@@ -30,14 +30,14 @@ It goes out like a kick of a donkey | That's good
 It goes out like a punch of a drunken man | That's good
 Worth the grief | It's worth it
 Erasure and new count | Start over
-Twentieth century, mess | 
+Twentieth century, mess | Tango lyrics
 They who don't cry, aren't breastfed | If you don't speak up, nothing will happen
 It sucks me an egg | I don't care
 Pulled from the hairs | It's a stretch
 I'm a cheese | I'm silly
 Dot and apart | Carry on
 It touched you to dance with the ugliest | You have the hardest task
-This is the potato of the life |
+This is the potato of the life | This is the real deal
 May I ask you a hand? | May I ask you for help?
 To the fart | Useless
 To make self drum | To self promote
