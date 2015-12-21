@@ -53,6 +53,8 @@ Not even the parrot came | Nobody showed up
 
 ## English -> Spanish
 
+Traducción | Explicación
+---|---
 Trabajando como un jefe | Trabajando como un campeón
 Estamos mirando hacia adelante a eso | Esperar con ansias
 Justo en caso | Por las dudas
