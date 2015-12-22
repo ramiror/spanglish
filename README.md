@@ -60,4 +60,4 @@ Estamos mirando hacia adelante a eso | Esperar con ansias
 Justo en caso | Por las dudas
 En una cáscara de nuez | En pocas palabras
 Cálculos en el reverso del sobre | A ojo de buen cubero
-Corrida seca | Ensayo
+Corrida seca | Ensayo general
