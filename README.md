@@ -50,6 +50,7 @@ I don't have a mango split in half | To be broke
 There are no moors in the coast | All clear
 It gives me bad spine | I have a bad feeling about this
 Not even the parrot came | Nobody showed up
+For H or for B | For one reason or another
 
 ## English -> Spanish
 
