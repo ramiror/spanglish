@@ -52,7 +52,7 @@ It gives me bad spine | I have a bad feeling about this
 Not even the parrot came | Nobody showed up
 For H or for B | For one reason or another
 Break hang poke pay | If you destroy the football, you pay for it
-It makes me sound | It's suspicious
+It makes me noise | It's suspicious
 
 ## English -> Spanish
 
