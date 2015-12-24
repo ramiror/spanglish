@@ -53,7 +53,7 @@ Not even the parrot came | Nobody showed up
 For H or for B | For one reason or another
 Break hang poke pay | If you destroy the football, you pay for it
 It makes me noise | It's suspicious
-Happy parties | Merry Xmas
+Happy parties | Happy holidays
 
 ## English -> Spanish
 
