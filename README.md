@@ -67,3 +67,17 @@ Justo en caso | Por las dudas
 En una cáscara de nuez | En pocas palabras
 Cálculos en el reverso del sobre | A ojo de buen cubero
 Corrida seca | Ensayo general
+
+
+# Band names
+
+## Spanish -> English
+
+* Drulsonics
+* Split
+* Foursome of us
+* The balls
+
+## English -> Spanish
+
+* Los bichos
