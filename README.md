@@ -55,6 +55,7 @@ Break hang poke pay | If you destroy the football, you pay for it
 It makes me noise | It's suspicious
 Happy parties | Happy holidays
 It doesn't have name | It's the best, awesome
+I turn myself on | I'm in!
 
 ## English -> Spanish
 
