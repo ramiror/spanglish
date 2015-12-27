@@ -59,6 +59,7 @@ I turn myself on | I'm in!
 Bowl | A lot
 To sweet-potato someone | To lie to someone
 To bury the sweet potato | To have sex
+I'm all shat | I'm very frightened
 
 ## English -> Spanish
 
