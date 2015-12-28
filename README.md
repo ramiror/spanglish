@@ -60,6 +60,7 @@ Bowl | A lot
 To sweet-potato someone | To lie to someone
 To bury the sweet potato | To have sex
 I'm all shat | I'm very frightened
+You are a ball sweller | You are dense, annoying
 
 ## English -> Spanish
 
