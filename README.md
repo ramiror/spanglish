@@ -63,6 +63,7 @@ I'm all shat | I'm very frightened
 You are a ball sweller | You are dense, annoying
 The catfish is itching me | I'm hungry
 Good there | Well done
+Short and to the foot | Accurate and safe
 
 ## English -> Spanish
 
