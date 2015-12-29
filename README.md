@@ -62,6 +62,7 @@ To bury the sweet potato | To have sex
 I'm all shat | I'm very frightened
 You are a ball sweller | You are dense, annoying
 The catfish is itching me | I'm hungry
+Good there | Well done
 
 ## English -> Spanish
 
