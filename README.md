@@ -87,6 +87,8 @@ Corrida seca | Ensayo general
 * Split
 * Foursome of us
 * The balls
+* Lookgo
+* Do Pornis
 
 ## English -> Spanish
 
