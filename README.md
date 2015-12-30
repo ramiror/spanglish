@@ -65,6 +65,7 @@ The catfish is itching me | I'm hungry
 Good there | Well done
 Short and to the foot | Accurate and safe
 They make them game | They are a decent opponent
+Accounts clear preserve frienship | ?
 
 ## English -> Spanish
 
