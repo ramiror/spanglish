@@ -67,6 +67,7 @@ Short and to the foot | Accurate and safe
 They make them game | They are a decent opponent
 Accounts clear preserve frienship | ?
 Skull doesn't shriek | Don't complain about the repercussions of your own acts
+It cups me | I love it
 
 ## English -> Spanish
 
