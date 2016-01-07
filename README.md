@@ -68,6 +68,7 @@ They make them game | They are a decent opponent
 Accounts clear preserve frienship | ?
 Skull doesn't shriek | Don't complain about the repercussions of your own acts
 It cups me | I love it
+Jewel, toy, chocolate, never cab | A used car in mint condition
 
 ## English -> Spanish
 
