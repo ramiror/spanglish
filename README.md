@@ -69,6 +69,7 @@ Accounts clear preserve frienship | ?
 Skull doesn't shriek | Don't complain about the repercussions of your own acts
 It cups me | I love it
 Jewel, toy, chocolate, never cab | A used car in mint condition
+Feel me one thing | Pay attention
 
 ## English -> Spanish
 
