@@ -71,6 +71,7 @@ It cups me | I love it
 Jewel, toy, chocolate, never cab | A used car in mint condition
 Feel me one thing | Pay attention
 Nothing to see! | Nothing to do / unrelated / it's a lie
+Put the points | Set straight
 
 ## English -> Spanish
 
