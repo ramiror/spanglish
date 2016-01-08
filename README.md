@@ -75,6 +75,7 @@ A small painting | Very pretty
 Put the points | Set straight
 Late you chirped | You were too slow, someone won you over
 They eary rose you | You were too slow, someone won you over
+Your are the most | You are the best
 
 ## English -> Spanish
 
