@@ -73,6 +73,8 @@ Feel me one thing | Pay attention
 Nothing to see! | Nothing to do / unrelated / it's a lie
 A small painting | Very pretty
 Put the points | Set straight
+Late you chirped | You were too slow, someone won you over
+They eary rose you | You were too slow, someone won you over
 
 ## English -> Spanish
 
