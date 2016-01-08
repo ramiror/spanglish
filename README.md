@@ -76,6 +76,7 @@ Put the points | Set straight
 Late you chirped | You were too slow, someone won you over
 They eary rose you | You were too slow, someone won you over
 Your are the most | You are the best
+You put on the hat | You are a party pooper
 
 ## English -> Spanish
 
