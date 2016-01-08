@@ -77,7 +77,7 @@ Late you chirped | You were too slow, someone won you over
 They eary rose you | You were too slow, someone won you over
 Your are the most | You are the best
 A sandpaper grabbed me | I'm hungry
-You put on the cap | You are a party pooper
+You put on the hat | You are a party pooper
 
 ## English -> Spanish
 
