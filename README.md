@@ -82,6 +82,8 @@ Bad milk | Unfortunate or ill-intentioned
 It's not snot of turkey | It's very valuable
 Ready the chicken | Done
 A dough | Great
+Cut someone's face | Ignore completely
+Don't give the time | Ignore completely
 
 ## English -> Spanish
 
