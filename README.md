@@ -79,6 +79,7 @@ Your are the most | You are the best
 A sandpaper grabbed me | I'm hungry
 You put on the hat | You are a party pooper
 Bad milk | Unfortunate or ill-intentioned
+It's not snot of turkey | It's very valuable
 
 ## English -> Spanish
 
