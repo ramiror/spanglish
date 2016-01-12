@@ -84,6 +84,7 @@ Ready the chicken | Done
 A dough | Great
 Cut someone's face | Ignore completely
 Don't give the time | Ignore completely
+In point | O'clock
 
 ## English -> Spanish
 
