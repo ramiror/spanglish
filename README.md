@@ -86,6 +86,10 @@ Cut someone's face | Ignore completely
 Don't give the time | Ignore completely
 Half hair | Not great
 In point | O'clock
+Not even at sticks | No way
+To shit at sticks | Kick ass
+By left | Illegally
+It does not close to me | I don't understand
 
 ## English -> Spanish
 
