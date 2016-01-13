@@ -90,6 +90,7 @@ Not even at sticks | No way
 To shit at sticks | Kick ass
 By left | Illegally
 It does not close to me | I don't understand
+Skirter | Man submissive to a woman or women
 
 ## English -> Spanish
 
