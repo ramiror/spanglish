@@ -93,6 +93,7 @@ It does not close to me | I don't understand
 Skirter | Man submissive to a woman or women
 Not even idea | No clue
 Over likes there's nothing written about | Taste is subjective
+To be of wood | To be bad (dancer, actor)
 
 ## English -> Spanish
 
