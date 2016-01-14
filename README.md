@@ -92,6 +92,7 @@ By left | Illegally
 It does not close to me | I don't understand
 Skirter | Man submissive to a woman or women
 Not even idea | No clue
+Over likes there's nothing written about | Taste is subjective
 
 ## English -> Spanish
 
