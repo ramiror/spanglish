@@ -95,6 +95,7 @@ Not even idea | No clue
 Over likes there's nothing written about | Taste is subjective
 To be of wood | To be bad (dancer, actor)
 I sang "fir" (sic) | Dibs
+Good advantage | Bon appetite
 
 ## English -> Spanish
 
