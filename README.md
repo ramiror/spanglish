@@ -99,6 +99,7 @@ Good advantage | Bon appetite
 To another thing butterfly | Moving on
 You are taking me the hair | You are kidding me
 To do egg | Slack off
+Put the leg in | Screw up
 
 ## English -> Spanish
 
