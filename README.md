@@ -96,6 +96,7 @@ Over likes there's nothing written about | Taste is subjective
 To be of wood | To be bad (dancer, actor)
 I sang "fir" (sic) | Dibs
 Good advantage | Bon appetite
+To do egg | Slack off
 
 ## English -> Spanish
 
