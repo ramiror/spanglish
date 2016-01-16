@@ -97,6 +97,7 @@ To be of wood | To be bad (dancer, actor)
 I sang "fir" (sic) | Dibs
 Good advantage | Bon appetite
 To another thing butterfly | Moving on
+You are taking me the hair | You are kidding me
 
 ## English -> Spanish
 
