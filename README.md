@@ -101,6 +101,7 @@ You are taking me the hair | You are kidding me
 To do egg | Slack off
 Put the leg in | Screw up
 To stretch the leg | To kick the bucket
+There's no your aunt | There's no choice
 
 ## English -> Spanish
 
