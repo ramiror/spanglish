@@ -112,6 +112,7 @@ You're a hung | You lost your chance
 To early risen someone | To take advantage of someone's slowness
 To rest someone | To take advantage of someone's slowness
 To mexicaniate | To steal a criminal's booty
+Putting was the gus! | You must pay
 
 ## English -> Spanish
 
