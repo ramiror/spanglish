@@ -102,6 +102,16 @@ To do egg | Slack off
 Put the leg in | Screw up
 To stretch the leg | To kick the bucket
 There's no your aunt | There's no choice
+How scaffold? | How are you?
+What powder? | How are you?
+All wind, and bottle? | All good, and you?
+What chard? | What are you doing?
+I don't hunt a soccer | I don't understand
+You're a slept | You lost your chance
+You're a hung | You lost your chance
+To early risen someone | To take advantage of someone's slowness
+To rest someone | To take advantage of someone's slowness
+To mexicaniate | To steal a criminal's booty
 
 ## English -> Spanish
 
