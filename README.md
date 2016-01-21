@@ -113,6 +113,7 @@ To early risen someone | To take advantage of someone's slowness
 To rest someone | To take advantage of someone's slowness
 To mexicaniate | To steal a criminal's booty
 Putting was the gus! | You must pay
+Eat it bent | Bear the situation w/o complaining
 
 ## English -> Spanish
 
