@@ -125,6 +125,7 @@ Justo en caso | Por las dudas
 En una cáscara de nuez | En pocas palabras
 Cálculos en el reverso del sobre | A ojo de buen cubero
 Corrida seca | Ensayo general
+Tener un ganso | Echar un ojo
 
 
 # Band names
