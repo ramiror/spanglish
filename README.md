@@ -114,6 +114,8 @@ To rest someone | To take advantage of someone's slowness
 To mexicaniate | To steal a criminal's booty
 Putting was the gus! | You must pay
 Eat it bent | Bear the situation w/o complaining
+Among firemen we don't tread the hose | We don't mess with our kind
+Put down a change | Calm down
 
 ## English -> Spanish
 
