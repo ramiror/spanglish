@@ -119,7 +119,7 @@ Put down a change | Calm down
 Cute orphan! | Gorgeous being
 Delliver the brown | Surrender to our sexual requirements :)
 The party fits them | They are sexually liberal
-Stop the bike! | Hold your horses, cool your jets
+Stop the bike! | Calm down, hold your horses, cool your jets, curb your enthusiasm
 
 ## English -> Spanish
 
