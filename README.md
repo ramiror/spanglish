@@ -116,6 +116,9 @@ Putting was the gus! | You must pay
 Eat it bent | Bear the situation w/o complaining
 Among firemen we don't tread the hose | We don't mess with our kind
 Put down a change | Calm down
+Cute orphan! | Gorgeous being
+Delliver the brown | Surrender to our sexual requirements :)
+The party fits them | They are sexually liberal
 
 ## English -> Spanish
 
