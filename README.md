@@ -120,6 +120,7 @@ Cute orphan! | Gorgeous being
 Delliver the brown | Surrender to our sexual requirements :)
 The party fits them | They are sexually liberal
 Stop the bike! | Calm down, hold your horses, cool your jets, curb your enthusiasm
+Pass it bomb | Enjoy
 
 ## English -> Spanish
 
