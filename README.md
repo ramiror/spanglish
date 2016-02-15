@@ -134,7 +134,8 @@ En una cáscara de nuez | En pocas palabras
 Cálculos en el reverso del sobre | A ojo de buen cubero
 Corrida seca | Ensayo general
 Tener un ganso | Echar un ojo
-
+Rompedor de trato | Factor decisivo
+No empezador | Factor decisivo
 
 # Band names
 
