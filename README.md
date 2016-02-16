@@ -123,6 +123,8 @@ Stop the bike! | Calm down, hold your horses, cool your jets, curb your enthusia
 Pass it bomb | Enjoy
 Effective | Cash
 More to the fart than airplane horn | Unecessary
+At all shore | No matter how
+Lightmind | Clearly
 
 ## English -> Spanish
 
