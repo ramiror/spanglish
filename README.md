@@ -65,7 +65,7 @@ The catfish is itching me | I'm hungry
 Good there | Well done
 Short and to the foot | Accurate and safe
 They make them game | They are a decent opponent
-Accounts clear preserve frienship | ?
+Accounts clear preserve friendship | ?
 Skull doesn't shriek | Don't complain about the repercussions of your own acts
 It cups me | I love it
 Jewel, toy, chocolate, never cab | A used car in mint condition
@@ -74,7 +74,8 @@ Nothing to see! | Nothing to do / unrelated / it's a lie
 A small painting | Very pretty
 Put the points | Set straight
 Late you chirped | You were too slow, someone won you over
-They eary rose you | You were too slow, someone won you over
+They early rose you | You were too slow, someone won you over
+The tortoise give you the slip | You were too slow, someone won you over
 Your are the most | You are the best
 A sandpaper grabbed me | I'm hungry
 You put on the hat | You are a party pooper
@@ -112,15 +113,17 @@ You're a hung | You lost your chance
 To early risen someone | To take advantage of someone's slowness
 To rest someone | To take advantage of someone's slowness
 To mexicaniate | To steal a criminal's booty
-Putting was the gus! | You must pay
+Putting was the goose! | You must pay
 Eat it bent | Bear the situation w/o complaining
 Among firemen we don't tread the hose | We don't mess with our kind
+Among ghosts we don't step each other bedsheets | We don't mess with our kind
 Put down a change | Calm down
 Cute orphan! | Gorgeous being
-Delliver the brown | Surrender to our sexual requirements :)
+Deliver the brown | Surrender to our sexual requirements :)
 The party fits them | They are sexually liberal
 Stop the bike! | Calm down, hold your horses, cool your jets, curb your enthusiasm
 Pass it bomb | Enjoy
+I don't give more | I'm too tired
 Effective | Cash
 More to the fart than airplane horn | Unecessary
 At all shore | No matter how
@@ -154,3 +157,5 @@ No empezador | Factor decisivo
 ## English -> Spanish
 
 * Los bichos
+* Vos tambien
+* Piedras Rodantes
