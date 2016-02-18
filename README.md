@@ -28,6 +28,7 @@ Give it no more | Just go ahead
 It goes out like a pineapple | That's good
 It goes out like a kick of a donkey | That's good
 It goes out like a punch of a drunken man | That's good
+It's a dough | That's good
 Worth the grief | It's worth it
 Erasure and new count | Start over
 Twentieth century, mess | Tango lyrics
