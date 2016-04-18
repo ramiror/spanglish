@@ -132,7 +132,7 @@ Lightmind | Clearly
 What wave? | Sup
 Burn someone's cap | Badger, pester someone
 Mouth of wolf | Pitch black
-No worth! | It not fair! You're cheating!
+No worth! | It's not fair! You're cheating!
 
 ## English -> Spanish
 
