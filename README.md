@@ -133,6 +133,7 @@ What wave? | Sup
 Burn someone's cap | Badger, pester someone
 Mouth of wolf | Pitch black
 No worth! | It's not fair! You're cheating!
+To make the fat look | Intentionally overlook
 
 ## English -> Spanish
 
