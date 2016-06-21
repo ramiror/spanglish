@@ -136,6 +136,7 @@ No worth! | It's not fair! You're cheating!
 To make the fat look | Intentionally overlook
 Rags at the sun | Expose intimate information
 Make yourself charge | Take the responsibility
+Trout | Not legit
 
 ## English -> Spanish
 
