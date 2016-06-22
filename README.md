@@ -138,6 +138,7 @@ Rags at the sun | Expose intimate information
 Make yourself charge | Take the responsibility
 Trout | Not legit
 I glue it a look | I check it
+They have the t-shirt put | They are committed
 
 ## English -> Spanish
 
