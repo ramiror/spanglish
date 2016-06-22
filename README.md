@@ -140,6 +140,7 @@ Trout | Not legit
 I glue it a look | I check it
 They have the t-shirt put | They are committed
 The guy is re handle | The guy is over excited
+Put myself to shot | Catch up 
 
 ## English -> Spanish
 
