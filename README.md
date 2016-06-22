@@ -139,6 +139,7 @@ Make yourself charge | Take the responsibility
 Trout | Not legit
 I glue it a look | I check it
 They have the t-shirt put | They are committed
+The guy is re handle | The guy is over excited
 
 ## English -> Spanish
 
