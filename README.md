@@ -163,6 +163,7 @@ Corrida seca | Ensayo general
 Tener un ganso | Echar un ojo
 Rompedor de trato | Factor decisivo
 No empezador | Factor decisivo
+Arriba para agarraditas | Para compartir
 
 # Band names
 
