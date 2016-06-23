@@ -149,6 +149,7 @@ Give faith | Confirm
 Whip the just | The winner tip
 The post | The real deal
 Good came | Welcome
+Put myself to shot | Catch up
 
 ## English -> Spanish
 
