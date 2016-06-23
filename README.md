@@ -140,6 +140,15 @@ Trout | Not legit
 I glue it a look | I check it
 They have the t-shirt put | They are committed
 The guy is re handle | The guy is over excited
+My hands don't give me | I'm overwhelmed
+He encatused me | He conned me
+Both to the end | Let both be winners
+Leave a lot to desire | Let down
+Half tin | A little crazy
+Give faith | Confirm
+Whip the just | The winner tip
+The post | The real deal
+Good came | Welcome
 
 ## English -> Spanish
 
