@@ -150,6 +150,7 @@ Whip the just | The winner tip
 The post | The real deal
 Good came | Welcome
 Put myself to shot | Catch up
+Pass scratching | Barely make it
 
 ## English -> Spanish
 
