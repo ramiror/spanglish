@@ -168,6 +168,7 @@ Tener un ganso | Echar un ojo
 Rompedor de trato | Factor decisivo
 No empezador | Factor decisivo
 Arriba para agarraditas | Para compartir
+Mierda pasa | Cosas que pasan
 
 # Band names
 
