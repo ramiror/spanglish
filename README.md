@@ -155,6 +155,7 @@ Pass scratching | Barely make it
 It went to the crow's nest | It went too far
 I nailed myself a sandwich | I ate a sandwich
 Bad mine | My fault
+At the touch | Quickly
 
 ## English -> Spanish
 
