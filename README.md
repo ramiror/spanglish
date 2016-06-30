@@ -156,6 +156,7 @@ It went to the crow's nest | It went too far
 I nailed myself a sandwich | I ate a sandwich
 Bad mine | My fault
 At the touch | Quickly
+I glued myself a soap! | I was startled / terrified
 
 ## English -> Spanish
 
