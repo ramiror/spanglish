@@ -153,6 +153,7 @@ Good came | Welcome
 Put myself to shot | Catch up
 Pass scratching | Barely make it
 It went to the crow's nest | It went too far
+I nailed myself a sandwich | I ate a sandwich
 
 ## English -> Spanish
 
