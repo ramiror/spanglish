@@ -11,6 +11,7 @@ You’re a bad taught | You're rude
 You’re a bad thought | Dirty-minded / suspicious / pessimistic.
 Don’t put me the dog | Don't lie to me
 To the steaks | Fight
+Step on your hands, cat | Get ready to fight, dude.
 As long as a fart in a basket | Doesn't last long
 I took you the token (or I took you the chip) | I learned your habits
 Clear that yes! | Of course yes
