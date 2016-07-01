@@ -157,6 +157,7 @@ I nailed myself a sandwich | I ate a sandwich
 Bad mine | My fault
 At the touch | Quickly
 I glued myself a soap! | I was startled / terrified
+Put egg | Try hard
 
 ## English -> Spanish
 
