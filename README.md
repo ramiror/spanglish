@@ -158,6 +158,9 @@ Bad mine | My fault
 At the touch | Quickly
 I glued myself a soap! | I was startled / terrified
 Put egg | Try hard
+Half machine | Half hearted
+Half hair | Subpar
+Give oneself count | Notice
 
 ## English -> Spanish
 
