@@ -162,6 +162,7 @@ Half machine | Half hearted
 Half hair | Subpar
 Give oneself count | Notice
 Party soaker | Killjoy
+You have straw tail! | You have guilty conscience!
 
 ## English -> Spanish
 
