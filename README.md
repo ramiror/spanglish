@@ -161,6 +161,7 @@ Put egg | Try hard
 Half machine | Half hearted
 Half hair | Subpar
 Give oneself count | Notice
+Party soaker | Killjoy
 
 ## English -> Spanish
 
