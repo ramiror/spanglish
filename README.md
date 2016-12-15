@@ -179,6 +179,7 @@ Rompedor de trato | Factor decisivo
 No empezador | Factor decisivo
 Arriba para agarraditas | Para compartir
 Mierda pasa | Cosas que pasan
+Este soy yo | Aquí me bajo
 
 # Band names
 
