@@ -163,6 +163,7 @@ Half hair | Subpar
 Give oneself count | Notice
 Party soaker | Killjoy
 You have straw tail! | You have guilty conscience!
+Scratch the fig | Slack off
 
 ## English -> Spanish
 
