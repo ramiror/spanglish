@@ -166,6 +166,7 @@ You have straw tail! | You have guilty conscience!
 Scratch the fig | Slack off
 Sweating the fat drop | Working hard
 I put myself in an eggplant plantation | I complicated my own life
+To nail the seen | To ostensibly read a Whatsapp message and not reply to it
 
 ## English -> Spanish
 
