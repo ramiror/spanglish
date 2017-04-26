@@ -168,6 +168,7 @@ Sweating the fat drop | Working hard
 I put myself in an eggplant plantation | I complicated my own life
 To nail the seen | To ostensibly read a Whatsapp message and not reply to it
 Mouth of storm | Storm drain
+And the sea in car | And so long and so forth
 
 ## English -> Spanish
 
