@@ -169,6 +169,8 @@ I put myself in an eggplant plantation | I complicated my own life
 To nail the seen | To ostensibly read a Whatsapp message and not reply to it
 Mouth of storm | Storm drain
 And the sea in car | And so long and so forth
+Sing the forty | Vehemently stand for one's opinion
+Have the cow tied | To be on the gravy train
 
 ## English -> Spanish
 
