@@ -172,6 +172,7 @@ And the sea in car | And so long and so forth
 Sing the forty | Vehemently stand for one's opinion
 Have the cow tied | To be on the gravy train
 Slap of drowned | Last resort
+To the teetotum | Jeez!
 
 ## English -> Spanish
 
