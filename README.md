@@ -173,6 +173,7 @@ Sing the forty | Vehemently stand for one's opinion
 Have the cow tied | To be on the gravy train
 Slap of drowned | Last resort
 To the teetotum | Jeez!
+Look at me and don't touch me | Fragile, unstable, about to collapse
 
 ## English -> Spanish
 
