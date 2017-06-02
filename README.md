@@ -174,6 +174,7 @@ Have the cow tied | To be on the gravy train
 Slap of drowned | Last resort
 To the teetotum | Jeez!
 Look at me and don't touch me | Fragile, unstable, about to collapse
+Speaking of Rome | Speaking of the devil
 
 ## English -> Spanish
 
