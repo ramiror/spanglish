@@ -175,6 +175,8 @@ Slap of drowned | Last resort
 To the teetotum | Jeez!
 Look at me and don't touch me | Fragile, unstable, about to collapse
 Speaking of Rome | Speaking of the devil
+Nothing passes through | It's alright
+We have it clear | We rock
 
 ## English -> Spanish
 
