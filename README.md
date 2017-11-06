@@ -177,6 +177,13 @@ Look at me and don't touch me | Fragile, unstable, about to collapse
 Speaking of Rome | Speaking of the devil
 Nothing passes through | It's alright
 We have it clear | We rock
+It's a potato | Piece of cake
+Like bread eaten | A walk in the park
+Little potato for the parrot | Easy peasy
+You're whistled | You're crazy
+No gives | It's out of place
+Crocodile that sleeps is purse | Stay alert or you'll lose
+Eye to the louse | Watch out
 
 ## English -> Spanish
 
@@ -194,6 +201,7 @@ No empezador | Factor decisivo
 Arriba para agarraditas | Para compartir
 Mierda pasa | Cosas que pasan
 Este soy yo | Aquí me bajo
+Quesoso | Grasa
 
 # Band names
 
