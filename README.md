@@ -184,6 +184,7 @@ You're whistled | You're crazy
 No gives | It's out of place
 Crocodile that sleeps is purse | Stay alert or you'll lose
 Eye to the louse | Watch out
+It didn't happen orange | Notthing happened
 
 ## English -> Spanish
 
