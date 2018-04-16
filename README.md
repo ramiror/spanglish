@@ -130,6 +130,7 @@ Effective | Cash
 More to the fart than airplane horn | Unecessary
 At all shore | No matter how
 Lightmind | Clearly
+I was in anyone | I wasn't paying atenttion
 
 ## English -> Spanish
 
