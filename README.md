@@ -131,6 +131,60 @@ More to the fart than airplane horn | Unecessary
 At all shore | No matter how
 Lightmind | Clearly
 I was in anyone | I wasn't paying atenttion
+What wave? | Sup
+Burn someone's cap | Badger, pester someone
+Mouth of wolf | Pitch black
+No worth! | It's not fair! You're cheating!
+To make the fat look | Intentionally overlook
+Rags at the sun | Expose intimate information
+Make yourself charge | Take the responsibility
+Trout | Not legit
+I glue it a look | I check it
+They have the t-shirt put | They are committed
+The guy is re handle | The guy is over excited
+My hands don't give me | I'm overwhelmed
+He encatused me | He conned me
+Both to the end | Let both be winners
+Leave a lot to desire | Let down
+Half tin | A little crazy
+Give faith | Confirm
+Whip the just | The winner tip
+The post | The real deal
+Good came | Welcome
+Put myself to shot | Catch up
+Pass scratching | Barely make it
+It went to the crow's nest | It went too far
+I nailed myself a sandwich | I ate a sandwich
+Bad mine | My fault
+At the touch | Quickly
+I glued myself a soap! | I was startled / terrified
+Put egg | Try hard
+Half machine | Half hearted
+Half hair | Subpar
+Give oneself count | Notice
+Party soaker | Killjoy
+You have straw tail! | You have guilty conscience!
+Scratch the fig | Slack off
+Sweating the fat drop | Working hard
+I put myself in an eggplant plantation | I complicated my own life
+To nail the seen | To ostensibly read a Whatsapp message and not reply to it
+Mouth of storm | Storm drain
+And the sea in car | And so long and so forth
+Sing the forty | Vehemently stand for one's opinion
+Have the cow tied | To be on the gravy train
+Slap of drowned | Last resort
+To the teetotum | Jeez!
+Look at me and don't touch me | Fragile, unstable, about to collapse
+Speaking of Rome | Speaking of the devil
+Nothing passes through | It's alright
+We have it clear | We rock
+It's a potato | Piece of cake
+Like bread eaten | A walk in the park
+Little potato for the parrot | Easy peasy
+You're whistled | You're crazy
+No gives | It's out of place
+Crocodile that sleeps is purse | Stay alert or you'll lose
+Eye to the louse | Watch out
 
 ## English -> Spanish
 
@@ -145,6 +199,10 @@ Corrida seca | Ensayo general
 Tener un ganso | Echar un ojo
 Rompedor de trato | Factor decisivo
 No empezador | Factor decisivo
+Arriba para agarraditas | Para compartir
+Mierda pasa | Cosas que pasan
+Este soy yo | Aquí me bajo
+Quesoso | Grasa
 
 # Band names
 
