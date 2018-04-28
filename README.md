@@ -130,6 +130,7 @@ Effective | Cash
 More to the fart than airplane horn | Unecessary
 At all shore | No matter how
 Lightmind | Clearly
+I was on anyone | I wasn't paying atenttion
 What wave? | Sup
 Burn someone's cap | Badger, pester someone
 Mouth of wolf | Pitch black
