@@ -186,6 +186,7 @@ No gives | It's out of place
 Crocodile that sleeps is purse | Stay alert or you'll lose
 Eye to the louse | Watch out
 It didn't happen orange | Notthing happened
+At all rag | At top speed
 
 ## English -> Spanish
 
