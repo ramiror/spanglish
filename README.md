@@ -187,6 +187,7 @@ Crocodile that sleeps is purse | Stay alert or you'll lose
 Eye to the louse | Watch out
 It didn't happen orange | Notthing happened
 At all rag | At top speed
+It puts me the nerves of point | It makes me nervous
 
 ## English -> Spanish
 
