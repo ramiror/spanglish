@@ -188,6 +188,7 @@ Eye to the louse | Watch out
 It didn't happen orange | Notthing happened
 At all rag | At top speed
 It puts me the nerves of point | It makes me nervous
+Done the law, done the trap | Every law has its loophole
 
 ## English -> Spanish
 
