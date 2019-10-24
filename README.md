@@ -203,6 +203,7 @@ By a little hair | Nearly
 You are ticket | You are dead (or have a death sentence upon you)
 I don't hunt one | I don't understand
 With all the fury | Tops
+Until the hands | Overloaded
 
 ## English -> Spanish
 
