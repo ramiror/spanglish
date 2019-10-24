@@ -199,6 +199,7 @@ Of one | Sure thing
 Go to the grass | Overreact
 Take the stick | Go away
 Shit fire | Die. Go out of order. Greatly hurt.
+By a little hair | Nearly
 
 ## English -> Spanish
 
