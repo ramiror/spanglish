@@ -208,6 +208,8 @@ Cut by the healty | Make a clean break
 Chop yours | Go away
 Stay fly | Stay put
 It's a chinese | It's very complicated
+Grab yourself Katherine | Be prepared
+Give ball | Pay attention
 
 ## English -> Spanish
 
