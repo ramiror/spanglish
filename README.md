@@ -198,6 +198,7 @@ The oven is not for buns | It's a bad timing for more tasks or bad news
 Of one | Sure thing
 Go to the grass | Overreact
 Take the stick | Go away
+Shit fire | Die. Go out of order. Greatly hurt.
 
 ## English -> Spanish
 
