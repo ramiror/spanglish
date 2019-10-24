@@ -228,3 +228,11 @@ Quesoso | Grasa
 * Los bichos
 * Vos tambien
 * Piedras Rodantes
+
+# Sources
+
+This list has been picked up from several conversations among friends. Every now
+and then I pick a fairly good amount of phrases from some public conversation.
+Find below some sources, and thanks for sharing this lovely science.
+
+* https://twitter.com/Vanity_Sexx/status/1187081230006788097
