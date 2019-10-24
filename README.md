@@ -83,7 +83,7 @@ A sandpaper grabbed me | I'm hungry
 You put on the hat | You are a party pooper
 Bad milk | Unfortunate or ill-intentioned
 It's not snot of turkey | It's very valuable
-Ready the chicken | Done
+Ready the chicken, peeled the hen | Done
 A dough | Great
 Cut someone's face | Ignore completely
 Don't give the time | Ignore completely
@@ -194,6 +194,7 @@ Put the batteries | Try harder
 Half a battery! | Try harder
 Saint Is Over | This is over
 Tall straw | Extreme laziness
+The oven is not for buns | It's a bad timing for more tasks or bad news
 
 ## English -> Spanish
 
