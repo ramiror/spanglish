@@ -206,6 +206,8 @@ With all the fury | Tops
 Until the hands | Overloaded
 Cut by the healty | Make a clean break
 Chop yours | Go away
+Stay fly | Stay put
+It's a chinese | It's very complicated
 
 ## English -> Spanish
 
