@@ -205,6 +205,7 @@ I don't hunt one | I don't understand
 With all the fury | Tops
 Until the hands | Overloaded
 Cut by the healty | Make a clean break
+Chop yours | Go away
 
 ## English -> Spanish
 
