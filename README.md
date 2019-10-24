@@ -195,6 +195,7 @@ Half a battery! | Try harder
 Saint Is Over | This is over
 Tall straw | Extreme laziness
 The oven is not for buns | It's a bad timing for more tasks or bad news
+Of one | Sure thing
 
 ## English -> Spanish
 
