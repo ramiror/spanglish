@@ -1,4 +1,4 @@
-# spanglish
+# Spanglish
 Bad English &lt;-> Spanish translations
 
 ## Spanish -> English
@@ -98,7 +98,7 @@ Not even idea | No clue
 Over likes there's nothing written about | Taste is subjective
 To be of wood | To be bad (dancer, actor)
 I sang "fir" (sic) | Dibs
-Good advantage | Bon appetite
+Good advantage | Enjoy your meal
 To another thing butterfly | Moving on
 You are taking me the hair | You are kidding me
 To do egg | Slack off
@@ -127,10 +127,10 @@ Stop the bike! | Calm down, hold your horses, cool your jets, curb your enthusia
 Pass it bomb | Enjoy
 I don't give more | I'm too tired
 Effective | Cash
-More to the fart than airplane horn | Unecessary
+More to the fart than airplane horn | Unnecessary
 At all shore | No matter how
 Lightmind | Clearly
-I was on anyone | I wasn't paying atenttion
+I was on anyone | I wasn't paying attention
 What wave? | Sup
 Burn someone's cap | Badger, pester someone
 Mouth of wolf | Pitch black
@@ -204,13 +204,15 @@ You are ticket | You are dead (or have a death sentence upon you)
 I don't hunt one | I don't understand
 With all the fury | Tops
 Until the hands | Overloaded
-Cut by the healty | Make a clean break
+Cut by the healthy | Make a clean break
 Chop yours | Go away
 Stay fly | Stay put
-It's a chinese | It's very complicated
+It's a Chinese | It's very complicated
 Grab yourself Katherine | Be prepared
 Give ball | Pay attention
-May it thin dizzle on you | Good luck
+May it thin drizzle on you | Good luck
+May it cost to whom wants light blue | No pain, no gain
+If you want peaches, deal with the fluff | No pain, no gain
 
 ## English -> Spanish
 
