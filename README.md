@@ -202,6 +202,7 @@ Shit fire | Die. Go out of order. Greatly hurt.
 By a little hair | Nearly
 You are ticket | You are dead (or have a death sentence upon you)
 I don't hunt one | I don't understand
+With all the fury | Tops
 
 ## English -> Spanish
 
