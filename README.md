@@ -193,6 +193,7 @@ Jumps to the sight | Stands out
 Put the batteries | Try harder
 Half a battery! | Try harder
 Saint Is Over | This is over
+Tall straw | Extreme laziness
 
 ## English -> Spanish
 
