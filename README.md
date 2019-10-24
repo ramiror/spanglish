@@ -204,6 +204,7 @@ You are ticket | You are dead (or have a death sentence upon you)
 I don't hunt one | I don't understand
 With all the fury | Tops
 Until the hands | Overloaded
+Cut by the healty | Make a clean break
 
 ## English -> Spanish
 
