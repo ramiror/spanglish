@@ -210,6 +210,7 @@ Stay fly | Stay put
 It's a chinese | It's very complicated
 Grab yourself Katherine | Be prepared
 Give ball | Pay attention
+May it thin dizzle on you | Good luck
 
 ## English -> Spanish
 
