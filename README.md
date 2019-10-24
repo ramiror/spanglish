@@ -191,6 +191,8 @@ It puts me the nerves of point | It makes me nervous
 Done the law, done the trap | Every law has its loophole
 Jumps to the sight | Stands out
 Put the batteries | Try harder
+Half a battery! | Try harder
+Saint Is Over | This is over
 
 ## English -> Spanish
 
