@@ -213,6 +213,7 @@ Give ball | Pay attention
 May it thin drizzle on you | Good luck
 May it cost to whom wants light blue | No pain, no gain
 If you want peaches, deal with the fluff | No pain, no gain
+Half environment | Environment
 
 ## English -> Spanish
 
