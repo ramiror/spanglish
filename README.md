@@ -216,6 +216,13 @@ If you want peaches, deal with the fluff | No pain, no gain
 Half environment | Environment
 You are turkeying | You are fooling around
 Fruits of station | Seasonal fruit
+Tall hours of the night | Very late
+Sales shot themselves in December | Sales soared in December
+Nothing to watch! | It has nothing to do
+I bench you | I'm with you
+I bank you | I'm with you
+From all a little | A little bit of everything
+Pale ones | Bad news
 
 ## English -> Spanish
 
